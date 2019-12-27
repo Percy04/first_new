@@ -1,0 +1,16 @@
+name: First 
+description: My first simple custom theme
+type: theme 
+version: VERSION 
+core: 8.x
+package: Custom
+
+libraries: 
+  - first/styling 
+
+regions: 
+  header: Header
+  menu: Main Menu 
+  content: Content 
+  sidebar: Sidebar 
+  footer: Footer 
